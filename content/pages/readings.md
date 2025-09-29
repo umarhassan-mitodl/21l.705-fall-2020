@@ -17,7 +17,7 @@ No assigned readings.
 
 - \[CT\] General Prologue, pp. 1–269 
 - \[H\] Chapters 1–3
-- Review Prof. Bahr’s video guide to using the online {{% resource_link "8d8d1e28-1cac-40e2-b5d0-7911a80c5649" "*Middle English Dictionary* (MED)" %}}
+- Review Prof. Bahr’s video guide to using the online [*Middle English Dictionary* (MED)](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary)
 
 ## Session 3
 
@@ -33,7 +33,7 @@ No assigned readings.
 ## Session 5
 
 - \[CT\] Knight’s Tale Parts I–II
-- Dimock, Wai Chee. "{{% resource_link "d3228807-ec89-40c1-aaed-7732d95551b9" "A Theory of Resonance" %}}." *PMLA* 112, no. 5 (1997): 1060–1071.
+- Dimock, Wai Chee. "[A Theory of Resonance](https://www.jstor.org/stable/463483)." *PMLA* 112, no. 5 (1997): 1060–1071.
 
 ## Session 6
 
@@ -47,15 +47,15 @@ No assigned readings.
 ## Session 8
 
 - \[CT\] Reeve’s and Cook’s Tales
-- Stinson, Timothy L. "{{% resource_link "a0671e80-8c17-40c4-bcc7-d3cc2e7a3d9e" "(In) completeness in Middle English Literature: The Case of the Cook's Tale and the Tale of Gamelyn" %}}." *Manuscript Studies: A Journal of the Schoenberg Institute for Manuscript Studies* 1, no. 1 (2016): 115–134.
+- Stinson, Timothy L. "[(In) completeness in Middle English Literature: The Case of the Cook's Tale and the Tale of Gamelyn](https://repository.upenn.edu/handle/20.500.14332/41179)." *Manuscript Studies: A Journal of the Schoenberg Institute for Manuscript Studies* 1, no. 1 (2016): 115–134.
 
 ## Session 9:  Micro-unit on scribes and editors
 
 - Chaucer, “Chaucer's Wordes unto Adam, His Owne Scriveyn.” In *The Riverside Chaucer*, 3rd Ed., ed. Larry D. Benson et al. Boston: Houghton, 1987. Page 650. ISBN: 9780199552092.
-- Gillespie, Alexandra. "{{% resource_link "2f39fce8-bb4f-4a60-987b-ff55d18702dd" "Reading Chaucer's Words to Adam" %}}." *The Chaucer Review* 42, no. 3 (2008): 269–283.
+- Gillespie, Alexandra. "[Reading Chaucer's Words to Adam](https://muse.jhu.edu/article/230156)." *The Chaucer Review* 42, no. 3 (2008): 269–283.
 - Donaldson, E. Talbot. "Psychology of Editors" Chapter 7 in *Speaking of Chaucer.* Baker Academic, 1995. ISBN: 9780801020339.
     - See also these **notes on the Donaldson** essay
-- Millett, Bella. “{{% resource_link "2df5b1f5-395d-4706-9856-218b7deff526" "What Is Mouvance?" %}}” Wessex Parallel Web Texts.
+- Millett, Bella. “[What Is Mouvance?](http://wpwt.soton.ac.uk/mouvance/mouvance.htm)” Wessex Parallel Web Texts.
 
 ## Session 10
 
@@ -82,7 +82,7 @@ No assigned readings.
 ## Session 15
 
 - \[CT\] Franklin’s Tale
-- Chaganti, Seeta. "{{% resource_link "ac513dcc-820c-4d5e-a880-d3de75071cb8" "Terpsichorean Form: Geoffrey Chaucer’s Franklin’s Tale and Robert Smithson’s Spiral Jetty" %}}." *The Medieval Literary Beyond Form* (2018): 185–212.
+- Chaganti, Seeta. "[Terpsichorean Form: Geoffrey Chaucer’s Franklin’s Tale and Robert Smithson’s Spiral Jetty](https://www.degruyter.com/document/doi/10.1515/9781787442191-013/html)." *The Medieval Literary Beyond Form* (2018): 185–212.
 
 ## Session 16
 
@@ -93,15 +93,15 @@ No assigned readings.
 
 - \[CT\] Prioress’s Tale
 - Fradenburg, Louise O. "Criticism, Anti-Semitism, and the Prioress's Tale." *Exemplaria* 1, no. 1 (1989): 69–115.
-- Besserman, Lawrence. "{{% resource_link "12ceb4b8-412c-48f5-a541-7f42ca16ef1e" "Ideology, Antisemitism, and Chaucer's 'Prioress's Tale'" %}}." *The Chaucer Review* 36, no. 1 (2001): 48–72.
+- Besserman, Lawrence. "[Ideology, Antisemitism, and Chaucer's 'Prioress's Tale'](https://www.jstor.org/stable/25096152)." *The Chaucer Review* 36, no. 1 (2001): 48–72.
 
 ## Session 18
 
-- Excerpts from {{% resource_link "fca958ad-01a8-485f-9fdc-c010ae8f654a" "*Beues of Hamptoun / Bevis of Hampton*" %}}; see also the {{% resource_link "26cd44f3-329a-4b2b-a121-7b18112178e3" "Wikipedia summary" %}}
+- Excerpts from [*Beues of Hamptoun / Bevis of Hampton*](https://d.lib.rochester.edu/teams/text/salisbury-four-romances-of-england-bevis-of-hampton); see also the [Wikipedia summary](https://en.wikipedia.org/wiki/Bevis_of_Hampton)
 - Excerpts from *Guy of Warwick* 
-- Chaucer’s {{% resource_link "471133a6-57f2-466a-aa7b-32000902e1be" "*Tale of Sir Thopas*" %}} 
+- Chaucer’s [*Tale of Sir Thopas*](https://chaucer.fas.harvard.edu/pages/prologue-and-tale-sir-thopas-and-hosts-interruption) 
 - \[CT\] Prologue to *Melibee* and first few pages of that tale
-- Brantley, Jessica. "{{% resource_link "c247a6c2-e26c-4a62-895d-0bb33b5e94cb" "Reading the Forms of *Sir Thopas*." %}}" *The Chaucer Review* 47, no. 4 (2013): 416–438.
+- Brantley, Jessica. "[Reading the Forms of *Sir Thopas*.](https://www.jstor.org/stable/10.5325/chaucerrev.47.4.0416)" *The Chaucer Review* 47, no. 4 (2013): 416–438.
 
 ## Session 19
 
