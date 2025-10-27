@@ -22,7 +22,7 @@ No background in medieval literature or Middle English is expected; enthusiasm f
 
 ## Textbooks
 
-[*Middle English Dictionary*](https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary)*.* University of Michigan Libraries. 
+{{% resource_link "d3e36ce2-a85c-4005-bcc6-6df393cbe08f" "*Middle English Dictionary*" %}}*.* University of Michigan Libraries. 
 
 Chaucer's Canterbury Tales. Which version??
 
